@@ -346,7 +346,7 @@ nav .button-collapse i {
 #skills .skill-line {
   background: #2196f3;
   color: #fff;
-  padding: 40px 30px;
+  padding: 10px 30px;
 }
 #skills .skill-line .skill-icon {
   text-align: center;
@@ -370,7 +370,7 @@ nav .button-collapse i {
   background-color: #000;
   height: 3px;
   overflow: visible;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   margin-top: 10px;
 }
 #skills .skill-line .skill-bar .determinate {
@@ -705,14 +705,14 @@ nav .button-collapse i {
   color: #8a8a8b;
 }
 .quates .thumbnail p:before {
-  content: """;
+  content: "";
   font-size: 30px;
   line-height: 0;
   display: inline-block;
   margin: 0 0 0 4px;
 }
 .quates .thumbnail p:after {
-  content: """;
+  content: "";
   font-size: 30px;
   line-height: 0;
   display: inline-block;

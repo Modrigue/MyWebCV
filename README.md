@@ -1,4 +1,4 @@
 # My WebCV
 My web curriculum vitae.
 
-_See it [here](http://ngourier.free.fr)_
+_See it [here](https://modrigue.github.io/MyWebCV)_
